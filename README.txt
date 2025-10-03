@@ -1,4 +1,5 @@
 # Lista de Chamada 02/10
 Iron Gustavo Sarmento
 David Lopes 02/10
-Laura Poloni Bellé 
+Laura Poloni Bellé
+Thiago Gusmão
